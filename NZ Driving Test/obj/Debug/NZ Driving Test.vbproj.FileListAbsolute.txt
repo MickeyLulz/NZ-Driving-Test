@@ -1,0 +1,20 @@
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\bin\Debug\NZ Driving Test.exe.config
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\bin\Debug\NZ Driving Test.exe
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\bin\Debug\NZ Driving Test.pdb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\bin\Debug\NZ Driving Test.xml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.vbprojResolveAssemblyReference.cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\MainWindow.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\Score Screen.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\Test Screen.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\Application.g.vb
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test_MarkupCompile.cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test_MarkupCompile.lref
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\MainWindow.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\Score Screen.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\Test Screen.baml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.g.resources
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ_Driving_Test.Resources.resources
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.vbproj.GenerateResource.Cache
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.exe
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.xml
+\\telmar\users\jl033\my documents\visual studio 2015\Projects\NZ Driving Test\NZ Driving Test\obj\Debug\NZ Driving Test.pdb
